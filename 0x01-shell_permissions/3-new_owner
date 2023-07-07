@@ -1,8 +1,2 @@
 #!/bin/bash
-
-file="hello"
-owner="betty"
-
-chown "$owner" "$file"
-
-echo "Owner of $file changed to $owner."
+chown betyy hello
