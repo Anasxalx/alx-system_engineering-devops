@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Your input goes here" | tr -d 'cC'echo "Your input goes here" | tr -d 'cC'
+tr -d "cC"
